@@ -1,5 +1,6 @@
 # Generate a CSV of datasets on the portal 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/edfb929a9ed247189fc89dd342f77db2)](https://www.codacy.com/app/TownofChapelHill/ods-datasets?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=townofchapelhill/ods-datasets&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a6745596a7d94b17804cdd22340c9fd4)](https://app.codacy.com/app/TownofChapelHill/ods-datasets?utm_source=github.com&utm_medium=referral&utm_content=townofchapelhill/ods-datasets&utm_campaign=Badge_Grade_Dashboard)
+
 ## Automate the ods-datasets-monitoring report
 
 ### Goal 
