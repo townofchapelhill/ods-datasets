@@ -1,5 +1,4 @@
 # Generate a CSV of datasets on the portal 
-
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a6745596a7d94b17804cdd22340c9fd4)](https://app.codacy.com/app/TownofChapelHill/ods-datasets?utm_source=github.com&utm_medium=referral&utm_content=townofchapelhill/ods-datasets&utm_campaign=Badge_Grade_Dashboard)
 
 ## Automate the ods-datasets-monitoring report
@@ -27,5 +26,4 @@ Create a dataset KPI spreadsheet for the open data portal content
 ### Output 
 CSV File for upload to the portal
 ### Dependencies
-Requires the 're' python module
 
