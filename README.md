@@ -23,7 +23,9 @@ Create a dataset KPI spreadsheet for the open data portal content
 ### Data Source
 [Catalog records](https://help.opendatasoft.com/apis/ods-search-v2/#catalog)
 
+
+NOTE: a quick retrieval of this data in CSV is available via: https://www.chapelhillopendata.org/api/v2/catalog/exports/csv
 ### Output 
 CSV File for upload to the portal
 ### Dependencies
-
+OpenDataSoft API v2
